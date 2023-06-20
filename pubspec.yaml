@@ -22,7 +22,7 @@ dependencies:
   todos_repository:
     path: "packages/todos_repository"
   provider: ^6.0.5
-  flutter_animate: ^4.1.1+1
+  flutter_animate: ^4.2.0
   just_audio: ^0.9.34
 
 dev_dependencies:
